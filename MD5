@@ -1,0 +1,11 @@
+a0e632154a9ae4fd7e0a5e08307e79a2 *DESCRIPTION
+d4afa599638ffe5b371f25e99ed5275d *NAMESPACE
+85f566f9e76c6b519313505c9696e021 *R/time2event.v1.R
+6ec45fd0554473c98d9df711cf5826ad *data/bmtelder.rda
+fad29257cf2a5cad13e2e1edc488b370 *data/pegvhd.rda
+07e0b687e27737508eead70546304d17 *man/bmtelder.Rd
+6245b49727fb4a0151373925a08d2e51 *man/pegvhd.Rd
+111ab6f4dc2d05c1cac7d7466836811a *man/tcomp.risk.Rd
+56f8b9ef5491c787d4f6330202d60a18 *man/tcoxph.Rd
+ce5cd45ff22b182c1c58630038e6b1d1 *man/time2data.Rd
+53dc7b5ca29f1dd1e3de3e7520bf4c33 *man/time2event-package.Rd
